@@ -46,3 +46,15 @@ Menambahkan Content Artikel
 ![Screenshot_24](https://user-images.githubusercontent.com/52759649/115327398-121f6080-a1b9-11eb-91bc-0aae7a09adcc.png)
 hasilnya jika di lihat di browser
 ![Screenshot_25](https://user-images.githubusercontent.com/52759649/115327410-19466e80-a1b9-11eb-9a4d-c3cebbce0bec.png)
+Tambahkan Layout untuk menu About
+![about](https://user-images.githubusercontent.com/52759649/115329544-a63ef700-a1bc-11eb-8e19-2b2cdcebc015.png)
+hasilnya jika di lihat di browser
+![abouthasil](https://user-images.githubusercontent.com/52759649/115329569-adfe9b80-a1bc-11eb-9c46-7d9729abfcfb.png)
+Tambahkan layout untuk menu Contact
+![contact](https://user-images.githubusercontent.com/52759649/115329638-c53d8900-a1bc-11eb-9dad-0a2e4252b45d.png)
+hasilnya jika di lihat di browser
+![Screenshot_1](https://user-images.githubusercontent.com/52759649/115329677-d25a7800-a1bc-11eb-818e-066cca793569.png)
+
+
+
+
